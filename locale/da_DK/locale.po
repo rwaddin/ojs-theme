@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-30T06:56:50-07:00\n"
+"PO-Revision-Date: 2019-09-30T06:56:50-07:00\n"
+"Language: \n"
+
+msgid "plugins.themes.academic_free.name"
+msgstr "Akademisk gratis tema ver 3.3"
+
+msgid "plugins.themes.academic_free.description"
+msgstr "Akademisk gratis tema af openjournaltheme.com"
+
+msgid "plugins.themes.academic_free.accessible_menu.label"
+msgstr "Hurtigt spring til sideindhold"
+
+msgid "plugins.themes.academic_free.accessible_menu.main_navigation"
+msgstr "Hovednavigation"
+
+msgid "plugins.themes.academic_free.accessible_menu.main_content"
+msgstr "Hovedindhold"
+
+msgid "plugins.themes.academic_free.accessible_menu.sidebar"
+msgstr "Sidebjælke"
+
+msgid "plugins.themes.academic_free.article.sidebar"
+msgstr "Artikel Sidebjælke"
+
+msgid "plugins.themes.academic_free.article.main"
+msgstr "Hovedartikelindhold"
+
+msgid "plugins.themes.academic_free.article.details"
+msgstr "Artikeloplysninger"
+
+msgid "plugins.themes.academic_free.options.academicFree.label"
+msgstr "Bootstrap-tema"
+
+msgid "plugins.themes.academic_free.options.academicFree.description"
+msgstr "Vælg et af disse open-source Bootstrap-temaer, der ændrer farverne og typografien på dit websted."
+
+msgid "plugins.themes.academic_free.options.academicFree.bootstrap3"
+msgstr "Standard Bootstrap-tema"
+
+msgid "plugins.themes.academic_free.options.academicFree.cerulean"
+msgstr "Cerulean"
+
+msgid "plugins.themes.academic_free.options.academicFree.cleanblog"
+msgstr "Ren blog"
+
+msgid "plugins.themes.academic_free.options.academicFree.cosmo"
+msgstr "Cosmo"
+
+msgid "plugins.themes.academic_free.options.academicFree.cyborg"
+msgstr "Cyborg"
+
+msgid "plugins.themes.academic_free.options.academicFree.darkly"
+msgstr "Mørkt"
+
+msgid "plugins.themes.academic_free.options.academicFree.flatly"
+msgstr "Fladt"
+
+msgid "plugins.themes.academic_free.options.academicFree.journal"
+msgstr "Tidsskrift"
+
+msgid "plugins.themes.academic_free.options.academicFree.lumen"
+msgstr "Lumen"
+
+msgid "plugins.themes.academic_free.options.academicFree.paper"
+msgstr "Papir"
+
+msgid "plugins.themes.academic_free.options.academicFree.readable"
+msgstr "Læselig"
+
+msgid "plugins.themes.academic_free.options.academicFree.sandstone"
+msgstr "Sandsten"
+
+msgid "plugins.themes.academic_free.options.academicFree.simplex"
+msgstr "Simplex"
+
+msgid "plugins.themes.academic_free.options.academicFree.slate"
+msgstr "Skifer"
+
+msgid "plugins.themes.academic_free.options.academicFree.spacelab"
+msgstr "Mellemrum"
+
+msgid "plugins.themes.academic_free.options.academicFree.superhero"
+msgstr "Superhelt"
+
+msgid "plugins.themes.academic_free.options.academicFree.united"
+msgstr "Forenet"
+
+msgid "plugins.themes.academic_free.options.academicFree.yeti"
+msgstr "Yeti"
+
+msgid "journal.journals"
+msgstr "Tidsskrifter"
+
+msgid "plugins.themes.academic_free.contact_us"
+msgstr "Kontakt os"
+
+msgid "plugins.themes.academic_free.address"
+msgstr "Adresse"
+
+msgid "lang.information"
+msgstr "Information"
+
+msgid "plugins.themes.academic_free.headerTheme.name"
+msgstr "Sidehovedtema"
+
+msgid "plugins.themes.academic_free.headerTheme.description"
+msgstr "Webstedshoveddesignmulighed "
+
+msgid "plugins.themes.academic_free.headerTheme.red"
+msgstr "Red Modern (kun Pro-version)"
+
+msgid "plugins.themes.academic_free.headerTheme.edu"
+msgstr "Uddannelse-undervisning (kun Pro-version)"
+
+msgid "plugins.themes.academic_free.headerTheme.dots"
+msgstr "Flere Essentric Dot (kun Pro-version)"
+
+msgid "plugins.themes.academic_free.headerTheme.diamond"
+msgstr "Diamond Shine (kun Pro-version)"
+
+msgid "plugins.themes.academic_free.headerTheme.blue"
+msgstr "Blå himmel"
+
+msgid "plugins.themes.academic_free.contact_us"
+msgstr "Kontakt os"
+
+msgid "plugins.themes.academic_free.mailingAddress"
+msgstr "Postadresse"
+
+msgid "plugins.themes.academic_free.address"
+msgstr "Adresse"
+
+msgid "lang.information"
+msgstr "Information"
+
+msgid "plugins.themes.academic_free.headerTheme.name"
+msgstr "Vælg overskriftstema design (kun Pro-version): "
+
+msgid "plugins.themes.academic_free.headerTheme.description"
+msgstr "Det forudbyggede billeddesign på journaloverskriften"
+
+msgid "plugins.themes.academic_free.headerTheme.red"
+msgstr "Rød Moderne"
+
+msgid "plugins.themes.academic_free.headerTheme.edu"
+msgstr "Uddannelse-undervisning"
+
+msgid "plugins.themes.academic_free.headerTheme.dots"
+msgstr "Flere Essentric Dot"
+
+msgid "plugins.themes.academic_free.headerTheme.diamond"
+msgstr "Diamond Shine"
+
+msgid "plugins.themes.academic_free.headerTheme.blue"
+msgstr "Blå himmel"
+
+msgid "plugins.themes.academic_free.stat_label"
+msgstr "Vises artikelstatistikker?"
+
+msgid "plugins.themes.academic_free.stat.desc"
+msgstr "Om artiklestatistik på journals indeksside skal vises"
+
+msgid "plugins.themes.academic_free.article_tracking_date"
+msgstr "Vises artikelhistorikken?"
+
+msgid "plugins.themes.academic_free.article_tracking_date.desc"
+msgstr "Artikelens indsendelsesdato, Offentliggørelsesdatoen på sidebjælken på siden med artikeldetaljer"
+
+msgid "plugins.themes.academic_free.enable"
+msgstr "Ja"
+
+msgid "plugins.themes.academic_free.disable"
+msgstr "Nej"
+
+msgid "plugins.themes.academic_free.galley_link_on_index"
+msgstr "Aktivere Galley Link i Journal Index?"
+
+msgid "plugins.themes.academic_free.galley_link_on_index_desc"
+msgstr "Deaktiver, og det er godt for SEO og Site Experience (anbefales)"
+
+msgid "plugins.themes.academic_free.theme_color"
+msgstr "Vælg temaets hovedfarve"
+
+msgid "plugins.themes.academic_free.theme_color_desc"
+msgstr "Opsæt den farve, der passer til din journal"
+
+msgid "plugins.themes.academic_free.logo_style"
+msgstr "Logo Style på Journal Index"
+
+msgid "plugins.themes.academic_free.logo_style_description"
+msgstr "Vis stort logo eller kun lille logo (før journalnavn)"
+
+msgid "plugins.themes.academic_free.logo_big"
+msgstr "Stort logo"
+
+msgid "plugins.themes.academic_free.logo_small"
+msgstr "Lille logo"
+
+msgid "submissions.accepted"
+msgstr "Accepteret"
+
+msgid "plugins.themes.academic_free.dimension_badge_label"
+msgstr "Aktivér dimensionskilt på siden med artikeldetaljer?"
+
+msgid "plugins.themes.academic_free.dimension_badge_desc"
+msgstr "Sørg for at tilføje DOI på artiklen, og at du er registreret på citationstjeneste. Se temahåndbogen for mere info."
+
+msgid "plugins.themes.academic_free.doi_on_index"
+msgstr "Vis artikel DOI på journalindeks?"
+
+msgid "plugins.themes.academic_free.doi_on_index_desc"
+msgstr "Vis den digitale objektidentifikator på dit journalindeks, der er knyttet til artikeldetaljerne. Bemærk kun arbejde på OJS min version 3.1.2"
+
+msgid "plugins.themes.academic_free.crossmark_label"
+msgstr "Vis krydsmarkeringsknap på artikeldetaljesiden (sørg for at du har registreret tidsskriftet til krydsmarkeringen - læs temahåndbogen)?"
+
+msgid "plugins.themes.academic_free.crossmark_button_desc"
+msgstr "Hvis aktiveret, og DOI eksisterer, vises krydsmarkeringsknappen på artikeldetailsiden."
+
+msgid "plugins.themes.academic_free.maintenance_label"
+msgstr "Er stedet i vedligeholdelsestilstand? "
+
+msgid "plugins.themes.academic_free.maintenance_desc"
+msgstr "Hvis dette er aktiveret, vises dette vedligeholdelsesbanner øverst på webstedet og tilføjer meta ingen cache (deaktiver cache for dit websted) (standard Nej)"
+

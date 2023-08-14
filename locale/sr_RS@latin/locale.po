@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-30T06:56:50-07:00\n"
+"PO-Revision-Date: 2019-09-30T06:56:50-07:00\n"
+"Language: \n"
+
+msgid "plugins.themes.academic_free.name"
+msgstr "Akademska slobodna tema ver 3.3"
+
+msgid "plugins.themes.academic_free.description"
+msgstr "Akademska besplatna tema openjournaltheme.com"
+
+msgid "plugins.themes.academic_free.accessible_menu.label"
+msgstr "Brzi skok na sadržaj stranice"
+
+msgid "plugins.themes.academic_free.accessible_menu.main_navigation"
+msgstr "Glavna plovidba"
+
+msgid "plugins.themes.academic_free.accessible_menu.main_content"
+msgstr "Glavni sadržaj"
+
+msgid "plugins.themes.academic_free.accessible_menu.sidebar"
+msgstr "Bočna traka"
+
+msgid "plugins.themes.academic_free.article.sidebar"
+msgstr "Članak Bočna traka"
+
+msgid "plugins.themes.academic_free.article.main"
+msgstr "Sadržaj glavnog članka"
+
+msgid "plugins.themes.academic_free.article.details"
+msgstr "Pojedinosti o članku"
+
+msgid "plugins.themes.academic_free.options.academicFree.label"
+msgstr "Bootstrap tema"
+
+msgid "plugins.themes.academic_free.options.academicFree.description"
+msgstr "Odaberite jednu od ovih otvorenih izvornih Bootstrap tema koje mijenjaju boje i tipografiju vašeg web mjesta."
+
+msgid "plugins.themes.academic_free.options.academicFree.bootstrap3"
+msgstr "Zadana tema pokretanja"
+
+msgid "plugins.themes.academic_free.options.academicFree.cerulean"
+msgstr "Tamnoplave boje"
+
+msgid "plugins.themes.academic_free.options.academicFree.cleanblog"
+msgstr "Čisti blog"
+
+msgid "plugins.themes.academic_free.options.academicFree.cosmo"
+msgstr "Cosmo"
+
+msgid "plugins.themes.academic_free.options.academicFree.cyborg"
+msgstr "Kiborg"
+
+msgid "plugins.themes.academic_free.options.academicFree.darkly"
+msgstr "Mračno"
+
+msgid "plugins.themes.academic_free.options.academicFree.flatly"
+msgstr "Ravno"
+
+msgid "plugins.themes.academic_free.options.academicFree.journal"
+msgstr "Časopis"
+
+msgid "plugins.themes.academic_free.options.academicFree.lumen"
+msgstr "Lumen"
+
+msgid "plugins.themes.academic_free.options.academicFree.paper"
+msgstr "Papir"
+
+msgid "plugins.themes.academic_free.options.academicFree.readable"
+msgstr "Čitljiv"
+
+msgid "plugins.themes.academic_free.options.academicFree.sandstone"
+msgstr "Pješčenjaka"
+
+msgid "plugins.themes.academic_free.options.academicFree.simplex"
+msgstr "Simplex"
+
+msgid "plugins.themes.academic_free.options.academicFree.slate"
+msgstr "Škriljevac"
+
+msgid "plugins.themes.academic_free.options.academicFree.spacelab"
+msgstr "Spacelab"
+
+msgid "plugins.themes.academic_free.options.academicFree.superhero"
+msgstr "Superheroj"
+
+msgid "plugins.themes.academic_free.options.academicFree.united"
+msgstr "Ujedinjen"
+
+msgid "plugins.themes.academic_free.options.academicFree.yeti"
+msgstr "Yeti"
+
+msgid "journal.journals"
+msgstr "Časopisi"
+
+msgid "plugins.themes.academic_free.contact_us"
+msgstr "Kontaktirajte nas"
+
+msgid "plugins.themes.academic_free.address"
+msgstr "Adresa"
+
+msgid "lang.information"
+msgstr "Informacija"
+
+msgid "plugins.themes.academic_free.headerTheme.name"
+msgstr "Tema zaglavlja web lokacije"
+
+msgid "plugins.themes.academic_free.headerTheme.description"
+msgstr "Mogućnost dizajna zaglavlja web stranice "
+
+msgid "plugins.themes.academic_free.headerTheme.red"
+msgstr "Red Modern (samo Pro verzija)"
+
+msgid "plugins.themes.academic_free.headerTheme.edu"
+msgstr "Obrazovanje-podučavanje (samo Pro verzija)"
+
+msgid "plugins.themes.academic_free.headerTheme.dots"
+msgstr "Višestruka esencijalna točka (samo Pro verzija)"
+
+msgid "plugins.themes.academic_free.headerTheme.diamond"
+msgstr "Diamond Shine (samo Pro verzija)"
+
+msgid "plugins.themes.academic_free.headerTheme.blue"
+msgstr "Plavo nebo"
+
+msgid "plugins.themes.academic_free.contact_us"
+msgstr "Kontaktirajte nas"
+
+msgid "plugins.themes.academic_free.mailingAddress"
+msgstr "Poštanska adresa"
+
+msgid "plugins.themes.academic_free.address"
+msgstr "Adresa"
+
+msgid "lang.information"
+msgstr "Informacija"
+
+msgid "plugins.themes.academic_free.headerTheme.name"
+msgstr "Odaberite dizajn teme zaglavlja (samo Pro verzija): "
+
+msgid "plugins.themes.academic_free.headerTheme.description"
+msgstr "Unaprijed izgrađeni dizajn slike na zaglavlju dnevnika"
+
+msgid "plugins.themes.academic_free.headerTheme.red"
+msgstr "Crvena moderna"
+
+msgid "plugins.themes.academic_free.headerTheme.edu"
+msgstr "Obrazovanje-podučavanje"
+
+msgid "plugins.themes.academic_free.headerTheme.dots"
+msgstr "Višestruka esencijalna točka"
+
+msgid "plugins.themes.academic_free.headerTheme.diamond"
+msgstr "Dijamantni sjaj"
+
+msgid "plugins.themes.academic_free.headerTheme.blue"
+msgstr "Plavo nebo"
+
+msgid "plugins.themes.academic_free.stat_label"
+msgstr "Prikazuju li se statistike članaka?"
+
+msgid "plugins.themes.academic_free.stat.desc"
+msgstr "Treba li prikazati statistiku članaka na indeksnoj stranici časopisa"
+
+msgid "plugins.themes.academic_free.article_tracking_date"
+msgstr "Prikazuje li se povijest članka?"
+
+msgid "plugins.themes.academic_free.article_tracking_date.desc"
+msgstr "Datum predaje članka, Datum objave na bočnoj traci na stranici s detaljima članka"
+
+msgid "plugins.themes.academic_free.enable"
+msgstr "Da"
+
+msgid "plugins.themes.academic_free.disable"
+msgstr "Ne"
+
+msgid "plugins.themes.academic_free.galley_link_on_index"
+msgstr "Omogućiti vezu Galley na indeksu časopisa?"
+
+msgid "plugins.themes.academic_free.galley_link_on_index_desc"
+msgstr "Onemogućite i to je dobro za SEO i iskustvo na web mjestu (preporučeno)"
+
+msgid "plugins.themes.academic_free.theme_color"
+msgstr "Odaberite glavnu boju teme"
+
+msgid "plugins.themes.academic_free.theme_color_desc"
+msgstr "Postavite boju koja odgovara stilu vašeg dnevnika"
+
+msgid "plugins.themes.academic_free.logo_style"
+msgstr "Stil logotipa na indeksu časopisa"
+
+msgid "plugins.themes.academic_free.logo_style_description"
+msgstr "Prikaži veliki logotip ili samo mali logotip (prije naziva časopisa)"
+
+msgid "plugins.themes.academic_free.logo_big"
+msgstr "Veliki logotip"
+
+msgid "plugins.themes.academic_free.logo_small"
+msgstr "Mali logotip"
+
+msgid "submissions.accepted"
+msgstr "Prihvaćen"
+
+msgid "plugins.themes.academic_free.dimension_badge_label"
+msgstr "Omogućiti značku dimenzije na stranici Pojedinosti članka?"
+
+msgid "plugins.themes.academic_free.dimension_badge_desc"
+msgstr "Obavezno dodajte DOI na članak i registrirajte se na službi za citiranje. Molimo priručnik za temu za više informacija."
+
+msgid "plugins.themes.academic_free.doi_on_index"
+msgstr "Prikaži članak DOI na indeksu časopisa?"
+
+msgid "plugins.themes.academic_free.doi_on_index_desc"
+msgstr "Pokažite identifikator digitalnog objekta na indeksu časopisa koji je povezan s pojedinostima o članku. Primijetite samo rad na OJS min verziji 3.1.2"
+
+msgid "plugins.themes.academic_free.crossmark_label"
+msgstr "Pokazati gumb za poprečni žig na stranici s pojedinostima o članku (provjerite jeste li časopis registrirali za poprečni žig - pročitajte priručnik za temu)?"
+
+msgid "plugins.themes.academic_free.crossmark_button_desc"
+msgstr "Ako je omogućeno i DOI postoji, gumb za ukrštanje prikazat će se na stranici s detaljima članka."
+
+msgid "plugins.themes.academic_free.maintenance_label"
+msgstr "Je li stranica u načinu održavanja?"
+
+msgid "plugins.themes.academic_free.maintenance_desc"
+msgstr "Ako je omogućeno, na stranici će se prikazati natpis za održavanje i dodati meta nema predmemorije (onemogućiti predmemoriju za vašu stranicu) (zadano Ne)"
+

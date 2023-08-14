@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-30T06:56:50-07:00\n"
+"PO-Revision-Date: 2019-09-30T06:56:50-07:00\n"
+"Language: \n"
+
+msgid "plugins.themes.academic_free.name"
+msgstr "موضوع أكاديمي مجاني الإصدار 3.3"
+
+msgid "plugins.themes.academic_free.description"
+msgstr "موضوع أكاديمي مجاني من openjournaltheme.com"
+
+msgid "plugins.themes.academic_free.accessible_menu.label"
+msgstr "انتقال سريع إلى محتوى الصفحة"
+
+msgid "plugins.themes.academic_free.accessible_menu.main_navigation"
+msgstr "الملاحة الرئيسية"
+
+msgid "plugins.themes.academic_free.accessible_menu.main_content"
+msgstr "المحتوى الرئيسي"
+
+msgid "plugins.themes.academic_free.accessible_menu.sidebar"
+msgstr "الشريط الجانبي"
+
+msgid "plugins.themes.academic_free.article.sidebar"
+msgstr "الشريط الجانبي للمقالة"
+
+msgid "plugins.themes.academic_free.article.main"
+msgstr "محتوى المقال الرئيسي"
+
+msgid "plugins.themes.academic_free.article.details"
+msgstr "تفاصيل المقال"
+
+msgid "plugins.themes.academic_free.options.academicFree.label"
+msgstr "نسق التمهيد"
+
+msgid "plugins.themes.academic_free.options.academicFree.description"
+msgstr "حدد أحد سمات Bootstrap مفتوحة المصدر هذه والتي تغير ألوان وطباعة موقع الويب الخاص بك."
+
+msgid "plugins.themes.academic_free.options.academicFree.bootstrap3"
+msgstr "نسق التمهيد الافتراضي"
+
+msgid "plugins.themes.academic_free.options.academicFree.cerulean"
+msgstr "سيرولين"
+
+msgid "plugins.themes.academic_free.options.academicFree.cleanblog"
+msgstr "مدونة نظيفة"
+
+msgid "plugins.themes.academic_free.options.academicFree.cosmo"
+msgstr "كوزمو"
+
+msgid "plugins.themes.academic_free.options.academicFree.cyborg"
+msgstr "سايبورغ"
+
+msgid "plugins.themes.academic_free.options.academicFree.darkly"
+msgstr "بحزن"
+
+msgid "plugins.themes.academic_free.options.academicFree.flatly"
+msgstr "بشكل قاطع"
+
+msgid "plugins.themes.academic_free.options.academicFree.journal"
+msgstr "مجلة"
+
+msgid "plugins.themes.academic_free.options.academicFree.lumen"
+msgstr "لومن"
+
+msgid "plugins.themes.academic_free.options.academicFree.paper"
+msgstr "ورق"
+
+msgid "plugins.themes.academic_free.options.academicFree.readable"
+msgstr "مقروء"
+
+msgid "plugins.themes.academic_free.options.academicFree.sandstone"
+msgstr "الحجر الرملي"
+
+msgid "plugins.themes.academic_free.options.academicFree.simplex"
+msgstr "Simplex"
+
+msgid "plugins.themes.academic_free.options.academicFree.slate"
+msgstr "لائحة"
+
+msgid "plugins.themes.academic_free.options.academicFree.spacelab"
+msgstr "معمل الفضاء"
+
+msgid "plugins.themes.academic_free.options.academicFree.superhero"
+msgstr "خارقة"
+
+msgid "plugins.themes.academic_free.options.academicFree.united"
+msgst "المتحدة"
+
+msgid "plugins.themes.academic_free.options.academicFree.yeti"
+msgstr "اليتي"
+
+msgid "journal.journals"
+msgstr "المجلات"
+
+msgid "plugins.themes.academic_free.contact_us"
+msgstr "اتصل بنا"
+
+msgid "plugins.themes.academic_free.address"
+msgstr "تبوك"
+
+msgid "lang.information"
+msgstr "معلومة"
+
+msgid "plugins.themes.academic_free.headerTheme.name"
+msgstr "موضوع رأس الموقع"
+
+msgid "plugins.themes.academic_free.headerTheme.description"
+msgstr "خيار تصميم رأس الموقع"
+
+msgid "plugins.themes.academic_free.headerTheme.red"
+msgstr "Red Modern (إصدار Pro فقط)"
+
+msgid "plugins.themes.academic_free.headerTheme.edu"
+msgstr "التعليم - التدريس (الإصدار المحترف فقط)"
+
+msgid "plugins.themes.academic_free.headerTheme.dots"
+msgstr "نقاط جوهرية متعددة (الإصدار المحترف فقط)"
+
+msgid "plugins.themes.academic_free.headerTheme.diamond"
+msgstr "Diamond Shine (إصدار Pro فقط)"
+
+msgid "plugins.themes.academic_free.headerTheme.blue"
+msgstr "السماء الزرقاء"
+
+msgid "plugins.themes.academic_free.contact_us"
+msgstr "اتصل بنا"
+
+msgid "plugins.themes.academic_free.mailingAddress"
+msgstr "عنوان المراسلة"
+
+msgid "plugins.themes.academic_free.address"
+msgstr "تبوك"
+
+msgid "lang.information"
+msgstr "معلومة"
+
+msgid "plugins.themes.academic_free.headerTheme.name"
+msgstr "حدد تصميم سمة الرأس (إصدار Pro فقط):"
+
+msgid "plugins.themes.academic_free.headerTheme.description"
+msgstr "تصميم الصورة الذي تم إنشاؤه مسبقًا في عنوان المجلة"
+
+msgid "plugins.themes.academic_free.headerTheme.red"
+msgstr "ريد مودرن"
+
+msgid "plugins.themes.academic_free.headerTheme.edu"
+msgstr "تعليم - تعليم"
+
+msgid "plugins.themes.academic_free.headerTheme.dots"
+msgstr "نقطة جوهرية متعددة"
+
+msgid "plugins.themes.academic_free.headerTheme.diamond"
+msgstr "تألق الماس"
+
+msgid "plugins.themes.academic_free.headerTheme.blue"
+msgstr "السماء الزرقاء"
+
+msgid "plugins.themes.academic_free.stat_label"
+msgstr "هل يتم عرض إحصائيات المقالات؟"
+
+msgid "plugins.themes.academic_free.stat.desc"
+msgstr "ما إذا كان يجب إظهار" إحصائيات المقالة في صفحة فهرس دفتر اليومية "
+
+msgid "plugins.themes.academic_free.article_tracking_date"
+msgstr "هل يتم عرض محفوظات المقالة؟"
+
+msgid "plugins.themes.academic_free.article_tracking_date.desc"
+msgstr "تاريخ إرسال المقالة ، تاريخ النشر على الشريط الجانبي في صفحة تفاصيل المقالة"
+
+msgid "plugins.themes.academic_free.enable"
+msgstr "نعم"
+
+msgid "plugins.themes.academic_free.disable"
+msgstr "رقم"
+
+msgid "plugins.themes.academic_free.galley_link_on_index"
+msgstr "تمكين ارتباط لوح الطباعة في فهرس دفتر اليومية؟"
+
+msgid "plugins.themes.academic_free.galley_link_on_index_desc"
+msgstr "تعطيل وهو أمر جيد لتحسين محركات البحث وتجربة الموقع (موصى به)"
+
+msgid "plugins.themes.academic_free.theme_color"
+msgstr "تحديد اللون الرئيسي للموضوع"
+
+msgid "plugins.themes.academic_free.theme_color_desc"
+msgstr "قم بإعداد اللون الذي يتناسب مع نمط دفتر يومياتك"
+
+msgid "plugins.themes.academic_free.logo_style"
+msgstr "نمط الشعار في فهرس الجريدة"
+
+msgid "plugins.themes.academic_free.logo_style_description"
+msgstr "إظهار شعار كبير أو شعار صغير فقط (قبل اسم المجلة)"
+
+msgid "plugins.themes.academic_free.logo_big"
+msgstr "شعار كبير"
+
+msgid "plugins.themes.academic_free.logo_small"
+msgstr "شعار صغير"
+
+msgid "submissions.accepted"
+msgstr "قبلت"
+
+msgid "plugins.themes.academic_free.dimension_badge_label"
+msgstr "تمكين شارة البعد في صفحة تفاصيل المقالة؟"
+
+msgid "plugins.themes.academic_free.dimension_badge_desc"
+msgstr "تأكد من إضافة DOI إلى المقالة وأنك مسجّل في خدمة الاقتباس. يرجى دليل السمة لمزيد من المعلومات."
+
+msgid "plugins.themes.academic_free.doi_on_index"
+msgstr "إظهار المادة DOI في فهرس دفتر اليومية؟"
+
+msgid "plugins.themes.academic_free.doi_on_index_desc"
+msgstr "اعرض معرّف الكائن الرقمي في فهرس دفتر اليومية الخاص بك المرتبط بتفاصيل المقالة. الإشعار يعمل فقط على نظام المجلات المفتوحة ، الإصدار 3.1.2"
+
+msgid "plugins.themes.academic_free.crossmark_label"
+msgstr "إظهار زر علامة تبادلية على صفحة تفاصيل المقالة (تأكد من تسجيل المجلة في علامة التقاطع - اقرأ دليل الموضوع)؟"
+
+msgid "plugins.themes.academic_free.crossmark_button_desc"
+msgstr "في حالة التمكين ووجود DOI ، سيتم عرض زر علامة التقاطع في صفحة تفاصيل المقالة."
+
+msgid "plugins.themes.academic_free.maintenance_label"
+msgstr "هل الموقع في وضع الصيانة؟"
+
+msgid "plugins.themes.academic_free.maintenance_desc"
+msgstr "في حالة التمكين ، سيعرض هذا شعار الصيانة أعلى الموقع وسيضيف meta no cache (تعطيل ذاكرة التخزين المؤقت لموقعك) (الافتراضي لا)"موضوع أكاديمي مجاني الإصدار3.3

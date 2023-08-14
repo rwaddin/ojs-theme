@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/bootstrap3/locale/en_US/locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings
+  -->
+
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.themes.academic_free.name">Academic Free Theme ver 3.3</message>
+	<message key="plugins.themes.academic_free.description">Academic Free Theme by openjournaltheme.com</message>
+	<message key="plugins.themes.academic_free.accessible_menu.label">Quick jump to page content</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_navigation">Main Navigation</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_content">Main Content</message>
+	<message key="plugins.themes.academic_free.accessible_menu.sidebar">Sidebar</message>
+	<message key="plugins.themes.academic_free.article.sidebar">Article Sidebar</message>
+	<message key="plugins.themes.academic_free.article.main">Main Article Content</message>
+	<message key="plugins.themes.academic_free.article.details">Article Details</message>
+	<message key="plugins.themes.academic_free.options.academicFree.label">Bootstrap Theme</message>
+	<message key="plugins.themes.academic_free.options.academicFree.description">Select one of these open-source
+		Bootstrap themes which change the colors and typography of your website.</message>
+	<message key="plugins.themes.academic_free.options.academicFree.bootstrap3">Default Bootstrap Theme</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cerulean">Cerulean</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cleanblog">Clean Blog</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cosmo">Cosmo</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cyborg">Cyborg</message>
+	<message key="plugins.themes.academic_free.options.academicFree.darkly">Darkly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.flatly">Flatly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.journal">Journal</message>
+	<message key="plugins.themes.academic_free.options.academicFree.lumen">Lumen</message>
+	<message key="plugins.themes.academic_free.options.academicFree.paper">Paper</message>
+	<message key="plugins.themes.academic_free.options.academicFree.readable">Readable</message>
+	<message key="plugins.themes.academic_free.options.academicFree.sandstone">Sandstone</message>
+	<message key="plugins.themes.academic_free.options.academicFree.simplex">Simplex</message>
+	<message key="plugins.themes.academic_free.options.academicFree.slate">Slate</message>
+	<message key="plugins.themes.academic_free.options.academicFree.spacelab">Spacelab</message>
+	<message key="plugins.themes.academic_free.options.academicFree.superhero">Superhero</message>
+	<message key="plugins.themes.academic_free.options.academicFree.united">United</message>
+	<message key="plugins.themes.academic_free.options.academicFree.yeti">Yeti</message>
+
+	<message key="journal.journals">Journals</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Contact Us</message>
+	<message key="plugins.themes.academic_free.address">Address</message>
+	<message key="lang.information">Information</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Site Header Theme</message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Site Header Design Option </message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Red Modern (Pro Version Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Education-Teaching (Pro Version Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Multiple Essentric Dot (Pro Version Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine (Pro Version Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Blue Sky</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Contact Us</message>
+	<message key="plugins.themes.academic_free.mailingAddress">Mailing Address</message>
+	<message key="plugins.themes.academic_free.address">Address</message>
+	<message key="lang.information">Information</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Select the header theme design (Pro Version Only) : </message>
+	<message key="plugins.themes.academic_free.headerTheme.description">The prebuilt image design on the journal header
+	</message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Red Modern</message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Education-Teaching</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Multiple Essentric Dot</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Blue Sky</message>
+
+	<message key="plugins.themes.academic_free.stat_label">Are article statistics displayed?</message>
+	<message key="plugins.themes.academic_free.stat.desc">Whether Article Statistics on the Journal index page should be shown</message>
+	<message key="plugins.themes.academic_free.article_tracking_date">Is the article history displayed ?</message>
+	<message key="plugins.themes.academic_free.article_tracking_date.desc">The Article Submission date, The Publication	date on the sidebar in the article detail page</message>
+	<message key="plugins.themes.academic_free.enable">Yes</message>
+	<message key="plugins.themes.academic_free.disable">No</message>
+
+	<message key="plugins.themes.academic_free.galley_link_on_index">Enable Galley Link on Journal Index ?</message>
+	<message key="plugins.themes.academic_free.galley_link_on_index_desc">Disable and it is good for SEO and Site Experience (Recommended)</message>
+
+	<message key="plugins.themes.academic_free.theme_color">Select theme main color</message>
+	<message key="plugins.themes.academic_free.theme_color_desc">Setup the color that match the style of your journal</message>
+
+	<message key="plugins.themes.academic_free.logo_style">Logo Style on Journal Index</message>
+	<message key="plugins.themes.academic_free.logo_style_description">Show big logo or only small logo (before journal name)</message>
+	<message key="plugins.themes.academic_free.logo_big">Big Logo</message>
+	<message key="plugins.themes.academic_free.logo_small">Small Logo</message>
+
+	<message key="submissions.accepted">Accepted</message>
+
+	<message key="plugins.themes.academic_free.dimension_badge_label">Enable Dimension Badge on Article Detail page ?</message>
+	<message key="plugins.themes.academic_free.dimension_badge_desc">Make sure you add DOI on article and you are registered on citation service. Please the theme manual for more info.</message>
+
+	<message key="plugins.themes.academic_free.doi_on_index">Show Article DOI on journal index ?</message>
+	<message key="plugins.themes.academic_free.doi_on_index_desc">Show the Digital Object Identifier on your journal index that linked to the article detail. Notice only work on OJS min version 3.1.2</message>
+
+	<message key="plugins.themes.academic_free.crossmark_label">Show crossmark button on article detail page (make sure	you have registered the journal to the crossmark -- read the theme manual) ?</message>
+	<message key="plugins.themes.academic_free.crossmark_button_desc">If enabled and DOI exist, the crossmark button would be shown on the article detail page.</message>
+
+	<message key="plugins.themes.academic_free.maintenance_label">Is site in maintenance mode ? </message>
+	<message key="plugins.themes.academic_free.maintenance_desc">If enabled this will show maintenance banner on top of	site and add meta no cache (disable cache for your site) (default No)</message>
+
+
+
+</locale>

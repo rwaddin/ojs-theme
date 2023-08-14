@@ -1,0 +1,18 @@
+
+Please note that this theme version (3.xx) is support for OJS 3.2.xx. 
+If you are using OJS version below that version please download the theme version 2.0. 
+
+
+
+Manual : 
+https://docs.google.com/document/d/17kGomKpB9IgaopC8nUY411rFjd22iH-bR4aTXGKHqUc/edit?usp=sharing
+
+<link rel="stylesheet" href="https://demo.openjournaltheme.com/plugins/themes/academic_pro3/styles/header/red.css?v=3.2.1.2" type="text/css" />
+<link rel="stylesheet" href="https://demo.openjournaltheme.com/index.php/index/$$$call$$$/page/page/css?name=bootstrap" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css?v=3.2.1.2" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css?v=3.2.1.2" type="text/css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css?v=3.2.1.2" type="text/css" />
+<link rel="stylesheet" href="https://demo.openjournaltheme.com/index.php/index/$$$call$$$/page/page/css?name=stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://demo.openjournaltheme.com/plugins/themes/academic_pro3/styles/academic_pro.min.css?v=3.2.1.2" type="text/css" />
+<link rel="stylesheet" href="https://demo.openjournaltheme.com/plugins/themes/academic_pro3/styles/mobile_responsive.css?v=3.2.1.2" type="text/css" />

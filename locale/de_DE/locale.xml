@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/bootstrap3/locale/de_DE/locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings
+  -->
+
+<locale name="de_DE" full_name="Deutsch (Deutschland)">
+	<message key="plugins.themes.academic_free.name">Akademisches freies Thema Version 3.2</message>
+	<message key="plugins.themes.academic_free.description">Akademisches kostenloses Thema von openjournaltheme.com</message>
+	<message key="plugins.themes.academic_free.accessible_menu.label">Schneller Sprung zum Seiteninhalt</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_navigation">Hauptnavigation</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_content">Hauptinhalt</message>
+	<message key="plugins.themes.academic_free.accessible_menu.sidebar">Seitenleiste</message>
+	<message key="plugins.themes.academic_free.article.sidebar">Artikel Seitenleiste</message>
+	<message key="plugins.themes.academic_free.article.main">Hauptartikelinhalt</message>
+	<message key="plugins.themes.academic_free.article.details">Artikeldetails</message>
+	<message key="plugins.themes.academic_free.options.academicFree.label">Bootstrap-Thema</message>
+	<message key="plugins.themes.academic_free.options.academicFree.description">Wählen Sie eines dieser Open-Source-Bootstrap-Themen aus, die die Farben und die Typografie Ihrer Website ändern.</message>
+	<message key="plugins.themes.academic_free.options.academicFree.bootstrap3">Standard-Bootstrap-Design</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cerulean">Cerulean</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cleanblog">Sauberes Blog</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cosmo">Cosmo</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cyborg">Cyborg</message>
+	<message key="plugins.themes.academic_free.options.academicFree.darkly">Dunkel</message>
+	<message key="plugins.themes.academic_free.options.academicFree.flatly">Rundweg</message>
+	<message key="plugins.themes.academic_free.options.academicFree.journal">Tagebuch</message>
+	<message key="plugins.themes.academic_free.options.academicFree.lumen">Lumen</message>
+	<message key="plugins.themes.academic_free.options.academicFree.paper">Papier</message>
+	<message key="plugins.themes.academic_free.options.academicFree.readable">Lesbar</message>
+	<message key="plugins.themes.academic_free.options.academicFree.sandstone">Sandstein</message>
+	<message key="plugins.themes.academic_free.options.academicFree.simplex">Simplex</message>
+	<message key="plugins.themes.academic_free.options.academicFree.slate">Schiefer</message>
+	<message key="plugins.themes.academic_free.options.academicFree.spacelab">Spacelab</message>
+	<message key="plugins.themes.academic_free.options.academicFree.superhero">Superheld</message>
+	<message key="plugins.themes.academic_free.options.academicFree.united">Vereinigt</message>
+	<message key="plugins.themes.academic_free.options.academicFree.yeti">Yeti</message>
+
+	<message key="journal.journals">Zeitschriften</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Kontaktiere uns</message>
+	<message key="plugins.themes.academic_free.address">Adresse</message>
+	<message key="lang.information">Information</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Site-Header-Thema</message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Site Header Design Option </message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Red Modern (nur Pro-Version)</message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Education-Teaching (nur Pro-Version)</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Multiple Essentric Dot (nur Pro-Version)</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine (nur Pro-Version)</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Blauer Himmel</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Kontaktiere uns</message>
+	<message key="plugins.themes.academic_free.mailingAddress">Postanschrift</message>
+	<message key="plugins.themes.academic_free.address">Adresse</message>
+	<message key="lang.information">Information</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Wählen Sie das Design des Header-Themas (nur Pro-Version) : </message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Das vorgefertigte Bilddesign im Journal-Header </message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Red Modern</message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Erziehungsunterricht</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Multiple Essentric Dot</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Blauer Himmel</message>
+
+	<message key="plugins.themes.academic_free.stat_label">Werden Artikelstatistiken angezeigt?</message>
+	<message key="plugins.themes.academic_free.stat.desc">Gibt an, ob Artikelstatistiken auf der Journalindexseite angezeigt werden sollen</message>
+	<message key="plugins.themes.academic_free.article_tracking_date">Wird der Artikelverlauf angezeigt?</message>
+	<message key="plugins.themes.academic_free.article_tracking_date.desc">Das Datum der Artikeleinreichung, das Veröffentlichungsdatum in der Seitenleiste auf der Artikeldetailseite</message>
+	<message key="plugins.themes.academic_free.enable">Ja</message>
+	<message key="plugins.themes.academic_free.disable">Nein</message>
+
+	<message key="plugins.themes.academic_free.galley_link_on_index">Galeeren-Link im Journal-Index aktivieren?</message>
+	<message key="plugins.themes.academic_free.galley_link_on_index_desc">Deaktivieren und es ist gut für SEO und Site Experience (empfohlen)</message>
+
+	<message key="plugins.themes.academic_free.theme_color">Wählen Sie die Hauptfarbe des Themas</message>
+	<message key="plugins.themes.academic_free.theme_color_desc">Richten Sie die Farbe ein, die dem Stil Ihres Tagebuchs entspricht</message>
+
+	<message key="plugins.themes.academic_free.logo_style">Logo-Stil auf Journal Index</message>
+	<message key="plugins.themes.academic_free.logo_style_description">Großes oder nur kleines Logo anzeigen (vor dem Namen des Journals)</message>
+	<message key="plugins.themes.academic_free.logo_big">Großes Logo</message>
+	<message key="plugins.themes.academic_free.logo_small">Kleines Logo</message>
+
+	<message key="submissions.accepted">Akzeptiert</message>
+
+	<message key="plugins.themes.academic_free.dimension_badge_label">Dimensionsabzeichen auf der Artikeldetailseite aktivieren?</message>
+	<message key="plugins.themes.academic_free.dimension_badge_desc">Stellen Sie sicher, dass Sie DOI zum Artikel hinzufügen und beim Zitierdienst registriert sind. Bitte das Themenhandbuch für weitere Informationen.</message>
+
+	<message key="plugins.themes.academic_free.doi_on_index">Artikel DOI im Zeitschriftenindex anzeigen?</message>
+	<message key="plugins.themes.academic_free.doi_on_index_desc">Zeigen Sie die digitale Objektkennung in Ihrem Journalindex an, die mit dem Artikeldetail verknüpft ist. Beachten Sie, dass nur Arbeiten mit OJS min Version 3.1.2 funktionieren</message>
+
+	<message key="plugins.themes.academic_free.crossmark_label">Crossmark-Schaltfläche auf der Artikeldetailseite anzeigen (stellen Sie sicher, dass Sie das Journal für das Crossmark registriert haben - lesen Sie das Themenhandbuch)?</message>
+	<message key="plugins.themes.academic_free.crossmark_button_desc">Wenn aktiviert und DOI vorhanden, wird die Kreuzmarkierungsschaltfläche auf der Artikeldetailseite angezeigt.</message>
+
+	<message key="plugins.themes.academic_free.maintenance_label">Befindet sich die Site im Wartungsmodus? </message>
+	<message key="plugins.themes.academic_free.maintenance_desc">Wenn diese Option aktiviert ist, wird das Wartungsbanner oben auf der Site angezeigt und Meta-No-Cache hinzugefügt (Cache für Ihre Site deaktivieren) (Standard-Nein).</message>
+
+</locale>

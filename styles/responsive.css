@@ -1,0 +1,17 @@
+@media (max-width:640px) {
+    .pkp_structure_sidebar {
+        padding: 0;
+        margin-top: 60px;
+    }
+    .journal_index {
+        background: none !important;
+    }
+    .navbar-toggle .icon-bar {
+        background-color: #9c9c9c !important;
+    }
+
+    
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form, .header_view .navbar-collapse, .header_view .navbar-form {
+        border-color: rgb(207, 207, 207) !important;
+    }
+}

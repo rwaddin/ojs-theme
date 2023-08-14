@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/bootstrap3/locale/id_ID/locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings
+  -->
+
+<locale name="id_ID" full_name="Bahasa Indonesia">
+	<message key="plugins.themes.academic_free.name">Academic Free Theme ver 3.3</message>
+	<message key="plugins.themes.academic_free.description">Academic Free Theme oleh openjournaltheme.com</message>
+	<message key="plugins.themes.academic_free.accessible_menu.label">Lompat cepat ke konten halaman</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_navigation">Navigasi Utama</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_content">Isi utama</message>
+	<message key="plugins.themes.academic_free.accessible_menu.sidebar">Sidebar</message>
+	<message key="plugins.themes.academic_free.article.sidebar">Artikel Sidebar</message>
+	<message key="plugins.themes.academic_free.article.main">Isi Artikel Utama</message>
+	<message key="plugins.themes.academic_free.article.details">Rincian Artikel</message>
+	<message key="plugins.themes.academic_free.options.academicFree.label">Tema Bootstrap</message>
+	<message key="plugins.themes.academic_free.options.academicFree.description">Pilih salah satu dari sumber terbuka ini Tema bootstrap yang mengubah warna dan tipografi situs web Anda.</message>
+	<message key="plugins.themes.academic_free.options.academicFree.bootstrap3">Tema Bootstrap Default</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cerulean">Cerulean</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cleanblog">Blog Bersih</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cosmo">Cosmo</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cyborg">Cyborg</message>
+	<message key="plugins.themes.academic_free.options.academicFree.darkly">Darkly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.flatly">Flatly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.journal">Jurnal</message>
+	<message key="plugins.themes.academic_free.options.academicFree.lumen">Lumen</message>
+	<message key="plugins.themes.academic_free.options.academicFree.paper">Kertas</message>
+	<message key="plugins.themes.academic_free.options.academicFree.readable">Dapat dibaca</message>
+	<message key="plugins.themes.academic_free.options.academicFree.sandstone">Batu pasir</message>
+	<message key="plugins.themes.academic_free.options.academicFree.simplex">Simpleks</message>
+	<message key="plugins.themes.academic_free.options.academicFree.slate">Batu tulis</message>
+	<message key="plugins.themes.academic_free.options.academicFree.spacelab">Spacelab</message>
+	<message key="plugins.themes.academic_free.options.academicFree.superhero">Super hero</message>
+	<message key="plugins.themes.academic_free.options.academicFree.united">Serikat</message>
+	<message key="plugins.themes.academic_free.options.academicFree.yeti">Yeti</message>
+
+	<message key="journal.journals">Jurnal</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Hubungi kami</message>
+	<message key="plugins.themes.academic_free.address">Alamat</message>
+	<message key="lang.information">Informasi</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Tema Header Situs</message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Opsi Desain Header Situs</message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Merah Modern (Hanya Versi Pro)</message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Pendidikan-Pengajaran (Hanya Versi Pro)</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Beberapa Titik Esentrik (Hanya Versi Pro)</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine (Hanya Versi Pro)</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Langit biru</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Hubungi kami</message>
+	<message key="plugins.themes.academic_free.mailingAddress">Alamat surat</message>
+	<message key="plugins.themes.academic_free.address">Alamat</message>
+	<message key="lang.information">Informasi</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Pilih desain tema tajuk (Hanya Versi Pro):</message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Desain gambar prebuilt di header jurnal</message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Merah Modern</message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Pendidikan-Pengajaran</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Beberapa Titik Esentrik</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Langit biru</message>
+
+	<message key="plugins.themes.academic_free.stat_label">Apakah statistik artikel ditampilkan?</message>
+	<message key="plugins.themes.academic_free.stat.desc">Apakah Statistik Artikel pada halaman indeks Jurnal harus ditampilkan</message>
+	<message key="plugins.themes.academic_free.article_tracking_date">Apakah sejarah artikel ditampilkan?</message>
+	<message key="plugins.themes.academic_free.article_tracking_date.desc">Tanggal Pengiriman Artikel, Tanggal Publikasi di sidebar di halaman detail artikel</message>
+	<message key="plugins.themes.academic_free.enable">Ya</message>
+	<message key="plugins.themes.academic_free.disable">Tidak</message>
+
+	<message key="plugins.themes.academic_free.galley_link_on_index">Aktifkan Galley Link di Journal Index?</message>
+	<message key="plugins.themes.academic_free.galley_link_on_index_desc">Nonaktifkan dan itu bagus untuk SEO dan Pengalaman Situs (Disarankan)</message>
+
+	<message key="plugins.themes.academic_free.theme_color">Pilih warna utama tema</message>
+	<message key="plugins.themes.academic_free.theme_color_desc">Atur warna yang sesuai dengan gaya jurnal Anda</message>
+
+	<message key="plugins.themes.academic_free.logo_style">Gaya Logo pada Indeks Jurnal</message>
+	<message key="plugins.themes.academic_free.logo_style_description">Tampilkan logo besar atau hanya logo kecil (sebelum nama jurnal)</message>
+	<message key="plugins.themes.academic_free.logo_big">Logo Besar</message>
+	<message key="plugins.themes.academic_free.logo_small">Logo Kecil</message>
+
+	<message key="submissions.accepted">Diterima</message>
+
+	<message key="plugins.themes.academic_free.dimension_badge_label">Aktifkan Badge Dimensi di halaman Detail Artikel?</message>
+	<message key="plugins.themes.academic_free.dimension_badge_desc">Pastikan Anda menambahkan DOI pada artikel dan Anda terdaftar pada layanan kutipan. Silakan panduan tema untuk info lebih lanjut.</message>
+
+	<message key="plugins.themes.academic_free.doi_on_index">Tampilkan Artikel DOI pada indeks jurnal?</message>
+	<message key="plugins.themes.academic_free.doi_on_index_desc">Tunjukkan Digital Object Identifier pada indeks jurnal Anda yang ditautkan ke detail artikel. Perhatikan hanya bekerja pada OJS min versi 3.1.2</message>
+
+	<message key="plugins.themes.academic_free.crossmark_label">Tampilkan tombol crossmark pada halaman detail artikel (pastikan Anda telah mendaftarkan jurnal ke crossmark -- baca manual temanya)</message>
+	<message key="plugins.themes.academic_free.crossmark_button_desc">Jika diaktifkan dan DOI ada, tombol tanda silang akan ditampilkan di halaman detail artikel.</message>
+
+	<message key="plugins.themes.academic_free.maintenance_label">Situs dalam mode pemeliharaan?</message>
+	<message key="plugins.themes.academic_free.maintenance_desc">Jika diaktifkan, ini akan menampilkan spanduk pemeliharaan di atas situs dan menambahkan meta no cache (nonaktifkan cache untuk situs Anda) (default Tidak)</message>
+	
+</locale>

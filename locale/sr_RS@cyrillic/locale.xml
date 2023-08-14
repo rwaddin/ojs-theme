@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/bootstrap3/locale/sr_RS@cyrillic/locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  * Localization information: https://pkp.sfu.ca/wiki/index.php?title=OJS:_Serbian_(sr_RS)
+  * Localization strings for the sr_RS@cyrillic (Српски) locale.
+
+  -->
+
+<locale name="sr_RS@cyrillic" full_name="Српски">
+	<message key="common.titleSeparator"> | </message>
+	<message key="plugins.themes.academic_free.name">Академска бесплатна тема вер 3.2</message>
+	<message key="plugins.themes.academic_free.description">Академска бесплатна тема опењоурналтхеме.цом</message>
+	<message key="plugins.themes.academic_free.accessible_menu.label">Брзи прелазак на садржај странице</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_navigation">Главна навигација</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_content">Главни садржај</message>
+	<message key="plugins.themes.academic_free.accessible_menu.sidebar">Бочна трака</message>
+	<message key="plugins.themes.academic_free.article.sidebar">Артицле Сидебар</message>
+	<message key="plugins.themes.academic_free.article.main">Главни садржај чланка</message>
+	<message key="plugins.themes.academic_free.article.details">Детаљи чланака</message>
+	<message key="plugins.themes.academic_free.options.academicFree.label">Боотстрап Тхеме</message>
+	<message key="plugins.themes.academic_free.options.academicFree.description">Изаберите једну од ових Боотстрап тема отвореног кода које мењају боје и типографију ваше веб странице.</message>
+	<message key="plugins.themes.academic_free.options.academicFree.bootstrap3">Подразумевана тема покретања</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cerulean">Церулеан</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cleanblog">Цлеан Блог</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cosmo">Цосмо</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cyborg">Киборг</message>
+	<message key="plugins.themes.academic_free.options.academicFree.darkly">Мрачно</message>
+	<message key="plugins.themes.academic_free.options.academicFree.flatly">Равно</message>
+	<message key="plugins.themes.academic_free.options.academicFree.journal">Јоурнал</message>
+	<message key="plugins.themes.academic_free.options.academicFree.lumen">Лумен</message>
+	<message key="plugins.themes.academic_free.options.academicFree.paper">Папир</message>
+	<message key="plugins.themes.academic_free.options.academicFree.readable">Читљиво</message>
+	<message key="plugins.themes.academic_free.options.academicFree.sandstone">Пешчара</message>
+	<message key="plugins.themes.academic_free.options.academicFree.simplex">Симплек</message>
+	<message key="plugins.themes.academic_free.options.academicFree.slate">Шкриљац</message>
+	<message key="plugins.themes.academic_free.options.academicFree.spacelab">Спацелаб</message>
+	<message key="plugins.themes.academic_free.options.academicFree.superhero">Суперхерој</message>
+	<message key="plugins.themes.academic_free.options.academicFree.united">Унитед</message>
+	<message key="plugins.themes.academic_free.options.academicFree.yeti">Иети</message>
+
+	<message key="journal.journals">Часописи</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Контактирајте нас</message>
+	<message key="plugins.themes.academic_free.address">Адреса</message>
+	<message key="lang.information">Информације</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Тема заглавља странице</message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Опција дизајна заглавља странице </message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Ред Модерн (само Про верзија) </message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Образовање-подучавање (само Про верзија)</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Вишеструка есенцијална тачка (само Про верзија)</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Диамонд Схине (само Про верзија)</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Плаво небо</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Контактирајте нас</message>
+	<message key="plugins.themes.academic_free.mailingAddress">Адреса</message>
+	<message key="plugins.themes.academic_free.address">Адреса</message>
+	<message key="lang.information">Информације</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Изаберите дизајн теме заглавља (само Про верзија) : </message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Унапред изграђени дизајн слике на заглављу часописа </message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Ред Модерн</message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Образовање-подучавање</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Вишеструка есенцијална тачка</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Диамонд Схине</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Плаво небо</message>
+
+	<message key="plugins.themes.academic_free.stat_label">Да ли се приказује статистика чланака?</message>
+	<message key="plugins.themes.academic_free.stat.desc">Да ли треба приказати статистику чланака на индексној страници часописа</message>
+	<message key="plugins.themes.academic_free.article_tracking_date">Да ли се приказује историја чланка?</message>
+	<message key="plugins.themes.academic_free.article_tracking_date.desc">Датум предаје чланка, Датум објаве на бочној траци на страници са детаљима чланка</message>
+	<message key="plugins.themes.academic_free.enable">да</message>
+	<message key="plugins.themes.academic_free.disable">Не</message>
+
+	<message key="plugins.themes.academic_free.galley_link_on_index">Омогућити везу Галлеи на индексу часописа?</message>
+	<message key="plugins.themes.academic_free.galley_link_on_index_desc">Онемогућите и то је добро за СЕО и искуство на сајту (препоручено)</message>
+
+	<message key="plugins.themes.academic_free.theme_color">Изаберите главну боју теме</message>
+	<message key="plugins.themes.academic_free.theme_color_desc">Подесите боју која одговара стилу вашег дневника</message>
+
+	<message key="plugins.themes.academic_free.logo_style">Стил логотипа на индексу часописа</message>
+	<message key="plugins.themes.academic_free.logo_style_description">Прикажи велики логотип или само мали логотип (пре назива часописа)</message>
+	<message key="plugins.themes.academic_free.logo_big">Велики лого</message>
+	<message key="plugins.themes.academic_free.logo_small">Мали логотип</message>
+
+	<message key="submissions.accepted">Прихваћено</message>
+
+	<message key="plugins.themes.academic_free.dimension_badge_label">Омогућити значку димензије на страници са детаљима чланка?</message>
+	<message key="plugins.themes.academic_free.dimension_badge_desc">Обавезно додајте ДОИ у чланак и региструјте се на служби за цитирање. Молимо приручник за тему за више информација.</message>
+
+	<message key="plugins.themes.academic_free.doi_on_index">Приказати чланак ДОИ на индексу часописа?</message>
+	<message key="plugins.themes.academic_free.doi_on_index_desc">Покажите идентификатор дигиталног објекта на индексу часописа који је повезан са детаљима чланка. Примети само рад на ОЈС мин верзија 3.1.2</message>
+
+	<message key="plugins.themes.academic_free.crossmark_label">Показати дугме укрштеног знака на страници са детаљима чланка (уверите се да сте регистровали часопис за укрштени жиг - прочитајте приручник за тему)?</message>
+	<message key="plugins.themes.academic_free.crossmark_button_desc">Ако је омогућено и ДОИ постоји, дугме укрштеног знака биће приказано на страници са детаљима чланка.</message>
+
+	<message key="plugins.themes.academic_free.maintenance_label">Да ли је локација у режиму одржавања ? </message>
+	<message key="plugins.themes.academic_free.maintenance_desc">Ако је омогућено, ово ће приказати банер за одржавање на врху странице и додати мета без кеша (онемогућити кеш за вашу локацију) (подразумевано Не)</message>
+
+</locale>

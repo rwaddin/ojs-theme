@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-30T06:56:50-07:00\n"
+"PO-Revision-Date: 2019-09-30T06:56:50-07:00\n"
+"Language: \n"
+
+msgid "plugins.themes.academic_free.name"
+msgstr "Thème académique gratuit ver 3.3"
+
+msgid "plugins.themes.academic_free.description"
+msgstr "Thème académique gratuit par openjournaltheme.com"
+
+msgid "plugins.themes.academic_free.accessible_menu.label"
+msgstr "Accès rapide au contenu de la page"
+
+msgid "plugins.themes.academic_free.accessible_menu.main_navigation"
+msgstr "Navigation principale"
+
+msgid "plugins.themes.academic_free.accessible_menu.main_content"
+msgstr "Contenu principal"
+
+msgid "plugins.themes.academic_free.accessible_menu.sidebar"
+msgstr "Barre latérale"
+
+msgid "plugins.themes.academic_free.article.sidebar"
+msgstr "Barre latérale de l'article"
+
+msgid "plugins.themes.academic_free.article.main"
+msgstr "Contenu de l'article principal"
+
+msgid "plugins.themes.academic_free.article.details"
+msgstr "Détails de l'article"
+
+msgid "plugins.themes.academic_free.options.academicFree.label"
+msgstr "Thème Bootstrap"
+
+msgid "plugins.themes.academic_free.options.academicFree.description"
+msgstr "Sélectionnez l'un de ces thèmes Bootstrap open source qui modifient les couleurs et la typographie de votre site Web."
+
+msgid "plugins.themes.academic_free.options.academicFree.bootstrap3"
+msgstr "Thème d'amorçage par défaut"
+
+msgid "plugins.themes.academic_free.options.academicFree.cerulean"
+msgstr "Céruléen"
+
+msgid "plugins.themes.academic_free.options.academicFree.cleanblog"
+msgstr "Nettoyer le blog"
+
+msgid "plugins.themes.academic_free.options.academicFree.cosmo"
+msgstr "Cosmo"
+
+msgid "plugins.themes.academic_free.options.academicFree.cyborg"
+msgstr "Cyborg"
+
+msgid "plugins.themes.academic_free.options.academicFree.darkly"
+msgstr "Sombre"
+
+msgid "plugins.themes.academic_free.options.academicFree.flatly"
+msgstr "Flatly"
+
+msgid "plugins.themes.academic_free.options.academicFree.journal"
+msgstr "Journal"
+
+msgid "plugins.themes.academic_free.options.academicFree.lumen"
+msgstr "Lumen"
+
+msgid "plugins.themes.academic_free.options.academicFree.paper"
+msgstr "Papier"
+
+msgid "plugins.themes.academic_free.options.academicFree.readable"
+msgstr "Lisible"
+
+msgid "plugins.themes.academic_free.options.academicFree.sandstone"
+msgstr "Grès"
+
+msgid "plugins.themes.academic_free.options.academicFree.simplex"
+msgstr "Simplex"
+
+msgid "plugins.themes.academic_free.options.academicFree.slate"
+msgstr "Ardoise"
+
+msgid "plugins.themes.academic_free.options.academicFree.spacelab"
+msgstr "Laboratoire spatial"
+
+msgid "plugins.themes.academic_free.options.academicFree.superhero"
+msgstr "Super-héros"
+
+msgid "plugins.themes.academic_free.options.academicFree.united"
+msgstr "Unis"
+
+msgid "plugins.themes.academic_free.options.academicFree.yeti"
+msgstr "Yéti"
+
+msgid "journal.journals"
+msgstr "Journaux"
+
+msgid "plugins.themes.academic_free.contact_us"
+msgstr "Contactez-nous"
+
+msgid "plugins.themes.academic_free.address"
+msgstr "Adresse"
+
+msgid "lang.information"
+msgstr "Informations"
+
+msgid "plugins.themes.academic_free.headerTheme.name"
+msgstr "Thème d'en-tête du site"
+
+msgid "plugins.themes.academic_free.headerTheme.description"
+msgstr "Option de conception d'en-tête de site "
+
+msgid "plugins.themes.academic_free.headerTheme.red"
+msgstr "Red Modern (Version Pro uniquement)"
+
+msgid "plugins.themes.academic_free.headerTheme.edu"
+msgstr "Éducation-Enseignement (Version Pro uniquement)"
+
+msgid "plugins.themes.academic_free.headerTheme.dots"
+msgstr "Plusieurs points essentiels (version Pro uniquement)"
+
+msgid "plugins.themes.academic_free.headerTheme.diamond"
+msgstr "Diamond Shine (Version Pro uniquement)"
+
+msgid "plugins.themes.academic_free.headerTheme.blue"
+msgstr "Ciel bleu"
+
+msgid "plugins.themes.academic_free.contact_us"
+msgstr "Contactez-nous"
+
+msgid "plugins.themes.academic_free.mailingAddress"
+msgstr "Adresse postale"
+
+msgid "plugins.themes.academic_free.address"
+msgstr "Adresse"
+
+msgid "lang.information"
+msgstr "Informations"
+
+msgid "plugins.themes.academic_free.headerTheme.name"
+msgstr "Sélectionnez la conception du thème de l'en-tête (version Pro uniquement) :  "
+
+msgid "plugins.themes.academic_free.headerTheme.description"
+msgstr "La conception d'image prédéfinie sur l'en-tête du journal "
+
+msgid "plugins.themes.academic_free.headerTheme.red"
+msgstr "Rouge Moderne"
+
+msgid "plugins.themes.academic_free.headerTheme.edu"
+msgstr "Éducation-Enseignement"
+
+msgid "plugins.themes.academic_free.headerTheme.dots"
+msgstr "Plusieurs points essentiels"
+
+msgid "plugins.themes.academic_free.headerTheme.diamond"
+msgstr "Éclat de diamant"
+
+msgid "plugins.themes.academic_free.headerTheme.blue"
+msgstr "Ciel bleu"
+
+msgid "plugins.themes.academic_free.stat_label"
+msgstr "Les statistiques des articles sont-elles affichées?"
+
+msgid "plugins.themes.academic_free.stat.desc"
+msgstr "Si les statistiques de l'article sur la page d'index de la revue doivent être affichées"
+
+msgid "plugins.themes.academic_free.article_tracking_date"
+msgstr "L'historique des articles est-il affiché ?"
+
+msgid "plugins.themes.academic_free.article_tracking_date.desc"
+msgstr "La date de soumission de l'article, la date de publication dans la barre latérale de la page de détail de l'article"
+
+msgid "plugins.themes.academic_free.enable"
+msgstr "Oui"
+
+msgid "plugins.themes.academic_free.disable"
+msgstr "Non"
+
+msgid "plugins.themes.academic_free.galley_link_on_index"
+msgstr "Activer le lien Galley sur l'index du journal ?"
+
+msgid "plugins.themes.academic_free.galley_link_on_index_desc"
+msgstr "Désactiver et c'est bon pour le référencement et l'expérience du site (recommandé)"
+
+msgid "plugins.themes.academic_free.theme_color"
+msgstr "Sélectionner la couleur principale du thème"
+
+msgid "plugins.themes.academic_free.theme_color_desc"
+msgstr "Configurez la couleur qui correspond au style of votre journal"
+
+msgid "plugins.themes.academic_free.logo_style"
+msgstr "Style de logo sur l'index du journal"
+
+msgid "plugins.themes.academic_free.logo_style_description"
+msgstr "Afficher le grand logo ou seulement le petit logo (avant le nom du journal)"
+
+msgid "plugins.themes.academic_free.logo_big"
+msgstr "Grand logo"
+
+msgid "plugins.themes.academic_free.logo_small"
+msgstr "Petit logo"
+
+msgid "submissions.accepted"
+msgstr "Accepté"
+
+msgid "plugins.themes.academic_free.dimension_badge_label"
+msgstr "Activer le badge de dimension sur la page de détail de l'article?"
+
+msgid "plugins.themes.academic_free.dimension_badge_desc"
+msgstr "Assurez-vous d'ajouter le DOI sur l'article et que vous êtes inscrit sur le service de citation. Veuillez consulter le manuel du thème pour plus d'informations."
+
+msgid "plugins.themes.academic_free.doi_on_index"
+msgstr "Afficher le DOI de l'article sur l'index de la revue?"
+
+msgid "plugins.themes.academic_free.doi_on_index_desc"
+msgstr "Afficher l'identifiant d'objet numérique sur l'index de votre revue qui est lié au détail de l'article. Notez que cela ne fonctionne que sur la version 3.1.2 d'OJS min"
+
+msgid "plugins.themes.academic_free.crossmark_label"
+msgstr "Afficher le bouton crossmark sur la page de détail de l'article (assurez-vous d'avoir enregistré le journal sur le crossmark -- lisez le manuel du thème) ?"
+
+msgid "plugins.themes.academic_free.crossmark_button_desc"
+msgstr "Si activé et que le DOI existe, le bouton de croix sera affiché sur la page de détail de l'article."
+
+msgid "plugins.themes.academic_free.maintenance_label"
+msgstr "Le site est-il en mode maintenance ? "
+
+msgid "plugins.themes.academic_free.maintenance_desc"
+msgstr "Si activé, cela affichera la bannière de maintenance en haut du site et ajoutera un méta sans cache (désactiver le cache pour votre site) (par défaut Non)"
+

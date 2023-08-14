@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * locale/da_DK/locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings.
+  -->
+
+<locale name="da_DK" full_name="Dansk">
+	<message key="plugins.themes.academic_free.name">Akademisk gratis tema ver 3.3</message>
+	<message key="plugins.themes.academic_free.description">Akademisk gratis tema af openjournaltheme.com</message>
+	<message key="plugins.themes.academic_free.accessible_menu.label">Hurtigt spring til sideindhold</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_navigation">Hovednavigation</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_content">Hovedindhold</message>
+	<message key="plugins.themes.academic_free.accessible_menu.sidebar">Sidebjælke</message>
+	<message key="plugins.themes.academic_free.article.sidebar">Artikel Sidebjælke</message>
+	<message key="plugins.themes.academic_free.article.main">Hovedartikelindhold</message>
+	<message key="plugins.themes.academic_free.article.details">Artikeloplysninger</message>
+	<message key="plugins.themes.academic_free.options.academicFree.label">Bootstrap-tema</message>
+	<message key="plugins.themes.academic_free.options.academicFree.description">Vælg et af disse open-source Bootstrap-temaer, der ændrer farverne og typografien på dit websted.</message>
+	<message key="plugins.themes.academic_free.options.academicFree.bootstrap3">Standard Bootstrap-tema</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cerulean">Cerulean</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cleanblog">Ren blog</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cosmo">Cosmo</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cyborg">Cyborg</message>
+	<message key="plugins.themes.academic_free.options.academicFree.darkly">Mørkt</message>
+	<message key="plugins.themes.academic_free.options.academicFree.flatly">Fladt</message>
+	<message key="plugins.themes.academic_free.options.academicFree.journal">Tidsskrift</message>
+	<message key="plugins.themes.academic_free.options.academicFree.lumen">Lumen</message>
+	<message key="plugins.themes.academic_free.options.academicFree.paper">Papir</message>
+	<message key="plugins.themes.academic_free.options.academicFree.readable">Læselig</message>
+	<message key="plugins.themes.academic_free.options.academicFree.sandstone">Sandsten</message>
+	<message key="plugins.themes.academic_free.options.academicFree.simplex">Simplex</message>
+	<message key="plugins.themes.academic_free.options.academicFree.slate">Skifer</message>
+	<message key="plugins.themes.academic_free.options.academicFree.spacelab">Mellemrum</message>
+	<message key="plugins.themes.academic_free.options.academicFree.superhero">Superhelt</message>
+	<message key="plugins.themes.academic_free.options.academicFree.united">Forenet</message>
+	<message key="plugins.themes.academic_free.options.academicFree.yeti">Yeti</message>
+
+	<message key="journal.journals">Tidsskrifter</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Kontakt os</message>
+	<message key="plugins.themes.academic_free.address">Adresse</message>
+	<message key="lang.information">Information</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Sidehovedtema</message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Webstedshoveddesignmulighed </message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Red Modern (kun Pro-version)</message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Uddannelse-undervisning (kun Pro-version)</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Flere Essentric Dot (kun Pro-version)</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine (kun Pro-version)</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Blå himmel</message>
+
+	<message key="plugins.themes.academic_free.contact_us">Kontakt os</message>
+	<message key="plugins.themes.academic_free.mailingAddress">Postadresse</message>
+	<message key="plugins.themes.academic_free.address">Adresse</message>
+	<message key="lang.information">Information</message>
+
+	<message key="plugins.themes.academic_free.headerTheme.name">Vælg overskriftstema design (kun Pro-version): </message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Det forudbyggede billeddesign på journaloverskriften</message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Rød Moderne</message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Uddannelse-undervisning</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Flere Essentric Dot</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Blå himmel</message>
+
+	<message key="plugins.themes.academic_free.stat_label">Vises artikelstatistikker?</message>
+	<message key="plugins.themes.academic_free.stat.desc">Om artiklestatistik på journals indeksside skal vises</message>
+	<message key="plugins.themes.academic_free.article_tracking_date">Vises artikelhistorikken?</message>
+	<message key="plugins.themes.academic_free.article_tracking_date.desc">Artikelens indsendelsesdato, Offentliggørelsesdatoen på sidebjælken på siden med artikeldetaljer</message>
+	<message key="plugins.themes.academic_free.enable">Ja</message>
+	<message key="plugins.themes.academic_free.disable">Nej</message>
+
+	<message key="plugins.themes.academic_free.galley_link_on_index">Aktivere Galley Link i Journal Index?</message>
+	<message key="plugins.themes.academic_free.galley_link_on_index_desc">Deaktiver, og det er godt for SEO og Site Experience (anbefales)</message>
+
+	<message key="plugins.themes.academic_free.theme_color">Vælg temaets hovedfarve</message>
+	<message key="plugins.themes.academic_free.theme_color_desc">Opsæt den farve, der passer til din journal</message>
+
+	<message key="plugins.themes.academic_free.logo_style">Logo Style på Journal Index</message>
+	<message key="plugins.themes.academic_free.logo_style_description">Vis stort logo eller kun lille logo (før journalnavn)</message>
+	<message key="plugins.themes.academic_free.logo_big">Stort logo</message>
+	<message key="plugins.themes.academic_free.logo_small">Lille logo</message>
+
+	<message key="submissions.accepted">Accepteret</message>
+
+	<message key="plugins.themes.academic_free.dimension_badge_label">Aktivér dimensionskilt på siden med artikeldetaljer?</message>
+	<message key="plugins.themes.academic_free.dimension_badge_desc">Sørg for at tilføje DOI på artiklen, og at du er registreret på citationstjeneste. Se temahåndbogen for mere info.</message>
+
+	<message key="plugins.themes.academic_free.doi_on_index">Vis artikel DOI på journalindeks?</message>
+	<message key="plugins.themes.academic_free.doi_on_index_desc">Vis den digitale objektidentifikator på dit journalindeks, der er knyttet til artikeldetaljerne. Bemærk kun arbejde på OJS min version 3.1.2</message>
+
+	<message key="plugins.themes.academic_free.crossmark_label">Vis krydsmarkeringsknap på artikeldetaljesiden (sørg for at du har registreret tidsskriftet til krydsmarkeringen - læs temahåndbogen)?</message>
+	<message key="plugins.themes.academic_free.crossmark_button_desc">Hvis aktiveret, og DOI eksisterer, vises krydsmarkeringsknappen på artikeldetailsiden.</message>
+
+	<message key="plugins.themes.academic_free.maintenance_label">Er stedet i vedligeholdelsestilstand? </message>
+	<message key="plugins.themes.academic_free.maintenance_desc">Hvis dette er aktiveret, vises dette vedligeholdelsesbanner øverst på webstedet og tilføjer meta ingen cache (deaktiver cache for dit websted) (standard Nej)</message>
+
+</locale>
