@@ -11,15 +11,15 @@
             <li class="media col-md-6 col-xs-12">
                 {if $thumb}
                     {assign var="altText" value=$journal->getLocalizedSetting('journalThumbnailAltText')}
-                    <div class="media-left col-md-4">
+                    <div class="col-xs-12 col-md-4">
                         <a href="{$url|escape}">
-                            <img class="media-object" src="{$journalFilesPath}{$journal->getId()}/{$thumb.uploadName|escape:"url"}"{if $altText} alt="{$altText|escape}"{/if}>
+                            <img class="media-object img-responsive" src="{$journalFilesPath}{$journal->getId()}/{$thumb.uploadName|escape:"url"}"{if $altText} alt="{$altText|escape}"{/if}>
                         </a>
                     </div>
                 {else}
-                    <div class="media-left col-md-4">
+                    <div class="col-md-4">
                         <a href="#">
-                            <img class="media-object" src="{$pluginImageDir}logo.png">
+                            <img class="media-object center-block img-responsive" src="{$pluginImageDir}logo.png">
                         </a>
                     </div>
                 {/if}

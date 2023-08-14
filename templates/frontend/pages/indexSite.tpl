@@ -16,7 +16,7 @@
 		<div class="header_line col-md-12">
 			About Journal
 		</div>
-		<div class=" col-md-12 site_description" style="margin-bottom: 1em">
+		<div class="col-md-12 site_description" style="margin-bottom: 1em">
 			<div class="about_site">
 				{if $about}
 					<div class="about_site">

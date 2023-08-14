@@ -89,4 +89,6 @@ a.galley-link:hover {
     background: linear-gradient(to bottom, #44ab17 0%, #63e32c 50%, #29680e 51%, rgba(41,104,14,0.4) 100%)
 }
 
-
+.page_index_site li.media{
+    overflow: auto !important;
+}

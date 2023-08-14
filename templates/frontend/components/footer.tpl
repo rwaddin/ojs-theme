@@ -28,7 +28,7 @@
 	{* Sidebars *}
 	{if empty($isFullWidth)}
 		{capture assign="sidebarCode"}{call_hook name="Templates::Common::Sidebar"}{/capture}
-		{if $sidebarCode}
+		{if $sidebarCode && !$site}
 			<aside id="sidebar" class="pkp_structure_sidebar left col-xs-12 col-sm-2 col-md-4" role="complementary" aria-label="{translate|escape key="common.navigation.sidebar"}">
 				{$sidebarCode}
 			</aside><!-- pkp_sidebar.left -->
@@ -45,26 +45,34 @@
 		<div class="container-fluid no-padding-left no-padding-right">
 			<div class="container footer-contact">
 				<div class="row">
-					<div class="col-md-5">
+					<div class="col-md-2">
 						{* Show site Logo *}
 						{if $displayPageHeaderLogo && is_array($displayPageHeaderLogo)}
-						<img src="{$publicFilesDir}/{$displayPageHeaderLogo.uploadName|escape:"url"}" {if $displayPageHeaderLogo.altText != ''}alt="{$displayPageHeaderLogo.altText|escape}"{else}alt="{translate key="common.pageHeaderLogo.altText"}"{/if}>
+							<img class="img-responsive" style="margin-bottom: 0!important;" src="{$publicFilesDir}/{$displayPageHeaderLogo.uploadName|escape:"url"}" {if $displayPageHeaderLogo.altText != ''}alt="{$displayPageHeaderLogo.altText|escape}" {else}alt="{translate key="common.pageHeaderLogo.altText"}"{/if}>
 						{else}
-							<img  style='width:100%; border="1px solid #e5e5e5"; border-radius: 4px;' alt="site_logo" src="{$pluginImageDir}logo_banner.png" />
+							<img class="img-responsive" style='width:100%; border="1px solid #e5e5e5"; border-radius: 4px;' alt="site_logo" src="{$pluginImageDir}logo_banner.png" />
 						{/if}
 					</div>
 
-					<div class="col-md-3">
+					<div class="col-md-5">
 						<h4><em class="fa fa-envelope-o">&nbsp;</em>Address</h4>
 						<p>Jl. KH. Moh. Muqri, RT.02/RW.02, Cijeruk, Sirau, Kec. Kemranjen, Kabupaten Banyumas, Jawa Tengah 53194</p>
-						<div class="social_media_list">EMail: journal.mts@gmail.com</div>
+						<div class="social_media_list">EMail: <a href="mailto:ojs@mtsmaarifnu1kemranjen.sch.id">ojs@mtsmaarifnu1kemranjen.sch.id</a></div>
 					</div>
 
-					<div class="col-md-4 contact_detail">
+					<div class="col-md-5 contact_detail">
 						<h4><em class="fa fa-user-o">&nbsp;</em> Contact Info</h4>
-						<p><strong>Akhul Syaifudin</strong> <br>
-						Phone: 6285-xxxx-xxx-xxx <br>
-						Email:&nbsp;<a href="mailto:akhul.syaifudin@gmial.com">akhul.syaifudin@gmial.com</a></p>
+						{if $currentContext}
+							<p><strong>{$currentContext->_data["contactName"]}</strong> <br>
+								Phone: {$currentContext->_data["contactPhone"]} <br>
+								Email:&nbsp;<a href="mailto:{$currentContext->_data["contactEmail"]}">{$currentContext->_data["contactEmail"]}</a>
+							</p>
+							{else}
+							<p><strong>Akhul Syaifudin</strong> <br>
+								Phone: 6285-xxxx-xxx-xxx <br>
+								Email:&nbsp;<a href="mailto:akhul.syaifudin@gmail.com">akhul.syaifudin@gmail.com</a>
+							</p>
+						{/if}
 					</div>
 				</div>
 			</div>
