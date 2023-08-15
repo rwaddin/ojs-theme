@@ -74,10 +74,10 @@
         {include file="legacy/indexJournal_announcements_3.1.2.tpl"}
     {/if}
     {* end compatible check *}
-    <pre>
+{*    <pre>*}
 
-{print_r($currentContext->_data)}
-    </pre>
+{*{print_r($currentContext->_data)}*}
+{*    </pre>*}
 
     {* Latest issue *}
     {if $issue}
